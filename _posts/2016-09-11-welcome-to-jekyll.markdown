@@ -28,11 +28,13 @@ There are 2 main purposes for that book:
 Each Chapter could be based on a short code example, a module/library presentation, some community related-events or even personnal-achievments!
 If we can expect a handful of chapters presenting bits of clever and elegant code, I also expect to find inspirationnal chapters without much code. If I love django, it's mainly for its community. I have to admit the code is pretty excellent too but both aspects should find a place in this book.
 
-Tech books can be cumbersome sometimes, a nice illustration or a good design really makes the difference. [2 Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8) illustrates that perfectly, the attention to details and carefully chosen illustrations make the book even better.
-With the wide range of backgrounds in the django community, I hope we could find someone able to illustrate a chapter only via a cartoon story or something similar (who said emoji?). Our community is bright enough to write a chapter in a new funny way. It would make the whole book more attractive.
 
 - Promote django as a whole: All royalties from this book will be donated to Django Software Foundation. This book should illustrate all great aspects of django, from its community to its deepest hidden pattern. A special attention will be drawn on diversity.
 
+
+*Bonus*: 
+Tech books can be cumbersome sometimes, a nice illustration or a good design really makes the difference. [2 Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8) illustrates that perfectly, the attention to details and carefully chosen illustrations make the book even better.
+With the wide range of backgrounds in the django community, I hope we could find someone able to illustrate a chapter only via a cartoon story or something similar (who said emoji?). Our community is bright enough to write a chapter in a new funny way. It would make the whole book more attractive.
 
 Diversity
 ---------
