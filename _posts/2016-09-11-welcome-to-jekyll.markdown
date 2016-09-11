@@ -47,7 +47,8 @@ I hope we can work together with every dedicated community (e.g. djangogirls) to
 Who can contribute?
 -------------------
 
-Everyone ! ["EVERYONE"](https://www.youtube.com/watch?v=MrTsuvykUZk "The Professional -- Everyone")
+Everyone ! ["EVERYONE"](https://www.youtube.com/watch?v=MrTsuvykUZk "The Professional -- Everyone")!
+
 But as stated in the diversity part, the idea would be to represent our entire world. We shouldn't let publish this book unless at least every continent and a reasonable ratio of different people is represented: it shouldn't be a blog posts best-of, written by scientific stars exclusively.
 I'm also considering for now to offer "anonymous" contribution but I don't know if anyone would like to contribute without taking the credits for it. Feedback people?
 
