@@ -118,4 +118,4 @@ We should define this quickly, I don't want anyone to feel a particular aspect o
 
 With much love, Adrien.
 
-* This draft has been elaborated from various discussions I had with Harry Percieval, Daniel GreenFeld, Audrey Roy, Baptiste Mispelon, Nicole and Olivier Harris, Adrienne Lowe. This draft only engages myself, words are mine and I'm not speaking for them.
+*This draft has been elaborated from various discussions I had with Harry Percieval, Daniel GreenFeld, Audrey Roy, Baptiste Mispelon, Nicole and Olivier Harris, Adrienne Lowe. This draft only engages myself, words are mine and I'm not speaking for them.
