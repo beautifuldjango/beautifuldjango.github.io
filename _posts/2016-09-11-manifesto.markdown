@@ -98,6 +98,7 @@ Logo / Cover front page / Theme
 We may try to make a benchmark of django book covers: colors & style. I don't want our cover to be a pale copy of any other book but if some ideas are must-haves, we shouldn't avoid them.
 
 Maybe you already have some beautiful things to show us that "beautiful django" inspires you. Your move folks!
+
 Joachim Jablon provided a first quick proposal and without other submissions, this will serve as a baseline for now.
 
 
