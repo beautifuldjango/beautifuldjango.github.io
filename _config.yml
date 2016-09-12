@@ -9,4 +9,5 @@ gems:
   - jemoji
 # Build settings
 markdown: kramdown
+google_analytics: UA-42192634-6
 theme: minima
