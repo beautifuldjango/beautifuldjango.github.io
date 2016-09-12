@@ -1,4 +1,5 @@
-# Beautiful Django
+<img src="assets/logo/Beautiful%20Django.png" width="300" alt="Beautiful Django">
+
 The Book Website
 
 TODO list (short term)
