@@ -10,4 +10,5 @@ gems:
 # Build settings
 markdown: kramdown
 google_analytics: UA-42192634-6
+disqus: my_disqus_shortname
 theme: minima
