@@ -4,7 +4,7 @@ description: Beautiful Django Book Website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "Beautifuldjango.com" # the base hostname & protocol for your site
 twitter_username: Adrien_Brunet
-github_username:  adrienbrunet
+github_username:  beautifuldjango
 gems:
   - jemoji
 # Build settings
