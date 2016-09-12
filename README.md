@@ -13,4 +13,4 @@ TODO list (short term)
 
 All contributions are welcomed.
 
-<div style="text-align:center"><img src="assets/logo/emojis.png" width="150" alt="Beautiful Django"></div>
+:sparkles::snake::guitar:
