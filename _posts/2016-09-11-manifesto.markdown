@@ -118,6 +118,8 @@ We should define this quickly, I don't want anyone to feel a particular aspect o
 - We need to define how the contributions should be made, so far I'm considering asciidoc and markdown (with a personnal preference over the latter).
 
 
-With much love, Adrien.
+With much :heart:, Adrien.
+
+<p align="center">:sparkles: :snake: :guitar:</p>
 
 *This draft has been elaborated from various discussions I had with Harry Percieval, Daniel GreenFeld, Audrey Roy, Baptiste Mispelon, Nicole and Olivier Harris, Adrienne Lowe. This draft only engages myself, words are mine and I'm not speaking for them.
