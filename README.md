@@ -1,5 +1,5 @@
-# beautifuldjango.github.io
-Beautiful Django Book Website
+# Beautiful Django
+The Book Website
 
 TODO list (short term)
 
