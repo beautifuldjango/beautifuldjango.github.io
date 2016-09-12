@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MANIFESTO - Beautiful Django"
+title:  "MANIFESTO"
 date:   2016-09-11 23:42:22 +0200
 categories: manifesto
 ---
