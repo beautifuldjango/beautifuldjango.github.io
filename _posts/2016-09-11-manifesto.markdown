@@ -118,7 +118,7 @@ We should define this quickly, I don't want anyone to feel a particular aspect o
 - We need to define how the contributions should be made, so far I'm considering asciidoc and markdown (with a personnal preference over the latter).
 
 
-With much :heart:, Adrien.
+With much :heart:, Adrien Brunet.
 
 <p align="center">:sparkles: :snake: :guitar:</p>
 
