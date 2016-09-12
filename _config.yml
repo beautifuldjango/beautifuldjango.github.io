@@ -2,7 +2,7 @@ title: Beautiful Django
 email: brunet.adrien@gmail.com
 description: Beautiful Django Book Website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Beautifuldjango.com" # the base hostname & protocol for your site
+url: "beautifuldjango.com" # the base hostname & protocol for your site
 twitter_username: Adrien_Brunet
 github_username:  adrienbrunet
 gems:
