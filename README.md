@@ -13,4 +13,4 @@ TODO list (short term)
 
 All contributions are welcomed.
 
-:sparkles::snake::guitar:
+<p align="center">:sparkles::snake::guitar:</p>
