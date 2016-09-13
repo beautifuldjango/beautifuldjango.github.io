@@ -1,6 +1,6 @@
-<p align="center"><img src="assets/logo/Beautiful%20Django.png" width="300" alt="Beautiful Django"></p>
-
 # The Book Website
+
+<p align="center"><img src="assets/logo/Beautiful%20Django.png" width="300" alt="Beautiful Django"></p>
 
 __TODO__ (short term)
 
