@@ -1,8 +1,8 @@
-<img src="assets/logo/Beautiful%20Django.png" width="300" alt="Beautiful Django">
+<p align="center"><img src="assets/logo/Beautiful%20Django.png" width="300" alt="Beautiful Django"></p>
 
-The Book Website
+# The Book Website
 
-TODO list (short term)
+__TODO__ (short term)
 
 - [x] Add disqus comment (pending)
 - [x] Add analytics on the page
