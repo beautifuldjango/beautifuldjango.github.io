@@ -25,7 +25,7 @@ This is not another introduction to Django, a lot of books address this matter a
 There are 2 main purposes for the book:
 
 - Sharing: the idea is to spread the best Django use cases and show what is beautiful about it. It's a way to help everyone to stand on taller giant shoulders.
-Each Chapter could be based on a short code example, a module/library presentation, some community related-events or even personnal-achievements!
+Each Chapter could be based on a short code example, a module/library presentation, some community related-events or even personal-achievements!
 If we can expect a handful of chapters presenting bits of clever and elegant code, I also expect to find inspirationnal chapters without much code. If I love Django, it's mainly for its community. I have to admit the code is pretty excellent too but both aspects should find a place in this book.
 
 
@@ -71,7 +71,7 @@ _I'm here asking for any help to set this CoC&W properly and make sure it's not 
 Licensing
 ---------
 
-So far, I'm considering CC-SA. We need to think to better reasons than just my personnal feelings about it. Licensing is one key point and should be examined closely.
+So far, I'm considering CC-SA. We need to think to better reasons than just my personal feelings about it. Licensing is one key point and should be examined closely.
 This section is clearly opened for further work because I lack more experience on that subject.
 
 
@@ -115,7 +115,7 @@ It also means we need to work on the submission process: a chapter synopsis with
 - We need to assess how much a chapter would cost to a person writing it. We need to find an average and fair amount we can give to each author (but we might face credit limitations). I'm writing authors here but other contributors could be involved (e.g. a designer for a logo, front/back pages, etc)
 We should define this quickly, I don't want anyone to feel a particular aspect of contribution not acknowlegded as it should.
 
-- We need to define how the contributions should be made, so far I'm considering asciidoc and markdown (with a personnal preference over the latter).
+- We need to define how the contributions should be made, so far I'm considering asciidoc and markdown (with a personal preference over the latter).
 
 
 With much :heart:, Adrien Brunet.
