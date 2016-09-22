@@ -24,7 +24,7 @@ This is not another introduction to Django, a lot of books address this matter a
 
 There are 2 main purposes for the book:
 
-- Sharing: the idea is to spread the best Django usecases and show what is beautiful about it. It's a way to help everyone to stand on taller giant shoulders.
+- Sharing: the idea is to spread the best Django use cases and show what is beautiful about it. It's a way to help everyone to stand on taller giant shoulders.
 Each Chapter could be based on a short code example, a module/library presentation, some community related-events or even personnal-achievements!
 If we can expect a handful of chapters presenting bits of clever and elegant code, I also expect to find inspirationnal chapters without much code. If I love Django, it's mainly for its community. I have to admit the code is pretty excellent too but both aspects should find a place in this book.
 
