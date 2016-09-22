@@ -113,7 +113,7 @@ It also means we need to work on the submission process: a chapter synopsis with
 - We need to work on the CoC&W: define a baseline and add particular point for this book if any is needed
 
 - We need to assess how much a chapter would cost to a person writing it. We need to find an average and fair amount we can give to each author (but we might face credit limitations). I'm writing authors here but other contributors could be involved (e.g. a designer for a logo, front/back pages, etc)
-We should define this quickly, I don't want anyone to feel a particular aspect of contribution not acknowlegded as it should.
+We should define this quickly, I don't want anyone to feel a particular aspect of contribution not acknowledged as it should.
 
 - We need to define how the contributions should be made, so far I'm considering asciidoc and markdown (with a personal preference over the latter).
 
