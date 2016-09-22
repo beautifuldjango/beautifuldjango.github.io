@@ -26,7 +26,7 @@ There are 2 main purposes for the book:
 
 - Sharing: the idea is to spread the best Django use cases and show what is beautiful about it. It's a way to help everyone to stand on taller giant shoulders.
 Each Chapter could be based on a short code example, a module/library presentation, some community related-events or even personal-achievements!
-If we can expect a handful of chapters presenting bits of clever and elegant code, I also expect to find inspirationnal chapters without much code. If I love Django, it's mainly for its community. I have to admit the code is pretty excellent too but both aspects should find a place in this book.
+If we can expect a handful of chapters presenting bits of clever and elegant code, I also expect to find inspirational chapters without much code. If I love Django, it's mainly for its community. I have to admit the code is pretty excellent too but both aspects should find a place in this book.
 
 
 - Promote Django as a whole: All royalties from this book will be donated to Django Software Foundation. This book should illustrate all great aspects of Django, from its community to its deepest hidden pattern. A special attention will be drawn on diversity.
