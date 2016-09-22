@@ -94,7 +94,7 @@ Any ideas is welcomed here as well. We may need to rethink the goal of that book
 Logo / Cover front page / Theme
 -------------------------------
 
-- Django, depending on the context, makes heavy use of a pink poney with magical power, snakes and guitars :snake: :guitar:.
+- Django, depending on the context, makes heavy use of a pink pony with magical power, snakes and guitars :snake: :guitar:.
 We may try to make a benchmark of Django book covers: colors & style. I don't want our cover to be a pale copy of any other book but if some ideas are must-haves, we shouldn't avoid them.
 
 Maybe you already have some beautiful things to show us that "Beautiful Django" inspires you. Your move folks!
