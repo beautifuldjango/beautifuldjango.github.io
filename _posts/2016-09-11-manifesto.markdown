@@ -79,7 +79,7 @@ Publishing
 ----------
 
 I first thought of O'Reilly to publish the book as O'Reilly distributes "Beautiful Code". It would ensure a certain sales amount and help with the promotion part.
-The tradeoff is the cut they take. If we want to get any money to the DSF with that book, even if I know we're not talking about a high volume of green flying bank notes, we may do a better job publishing it on our own.
+The tradeoff is the cut they take. If we want to get any money to the DSF with that book, even if I know we're not talking about a high volume of green flying banknotes, we may do a better job publishing it on our own.
 We need to crunch some numbers to assess which option is the best given our ambition and the reality of the reach we can have. (I need some help regarding the numbers here...)
 
 If we set up a crowdsource campaign and/or self publishing, we can imagine different packs with different pricing:
