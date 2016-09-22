@@ -10,7 +10,7 @@ categories: manifesto
 
 # A new book for and from the Django community
 
-The "Beautiful Django" book idea comes from the O'Reilly book ["Beautiful Code"](http://shop.oreilly.com/product/9780596510046.do "O'Reilly Beautiful Code"): master classes in software design reunited in a book. Every chapter is written by a different person on the subject of their choice. The only (strong) constraint: illustrate what they think a "Beautiful Code" is. We can witness many different programming languages, various patterns, different frameworks, several application fields and heterogenous author backgrounds.
+The "Beautiful Django" book idea comes from the O'Reilly book ["Beautiful Code"](http://shop.oreilly.com/product/9780596510046.do "O'Reilly Beautiful Code"). Every chapter is written by a different person on the subject of their choice. The only (strong) constraint: illustrate what they think a "Beautiful Code" is. We can witness many different programming languages, various patterns, different frameworks, several application fields and heterogenous author backgrounds.
 
 This book inspired me to create "Beautiful Django" with the same principles.
 
