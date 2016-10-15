@@ -52,9 +52,10 @@ Our objective is to raise money to allow us to pay the contributors and print th
 
 # Contributing
 
-To make this book a reality, we need your help! As such, we are looking for contributors of all kinds, if you think you can help, please see the [Contributing section](http://beautifuldjango.com/manifesto/2016/10/15/contributing.html).
+To make this book a reality, we need your help! As such, we are looking for contributors of all kinds. 
+If you think you can help, please see the [Contributing section](http://beautifuldjango.com/manifesto/2016/10/15/contributing.html).
 
-Note that all contributors are expected to follow our [Code of Conduct].
+Note that all contributors are expected to follow our [Code of Conduct]().
 
 
 With much :heart:, Adrien Brunet and [contributors](http://beautifuldjango.com/manifesto/2016/10/14/contributors.html).
