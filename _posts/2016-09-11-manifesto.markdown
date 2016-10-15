@@ -30,10 +30,11 @@ As with "Beautiful Code", each chapter will be written by a different author, pr
 
 Example chapters might include:
 
-- Short code example
-- Presentation of a module or library
-- Discussion of community-related events
-- Personal stories or achievements
+- A short code example
+- A presentation of a module or library
+- A discussion of community-related events
+- A personal story or achievement
+- A comic strip (?)
 
 We anticipate a handful of chapters exploring elegant code, alongside code-free chapters that are more introspective and inspirational in nature.
 
