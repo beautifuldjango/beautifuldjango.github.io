@@ -26,7 +26,7 @@ This means we need contributors with a broad range of skills and experiences. Id
 
 Any help, even the smallest comment on the blog posts, is greatly appreciated.
 
-Note that all contributors are expected to follow our [Code of Conduct]().
+Note that all contributors are expected to follow our [Code of Conduct](http://beautifuldjango.com/code/of/conduct/2015/12/31/CoC.html).
 
 # Specific tasks
 
