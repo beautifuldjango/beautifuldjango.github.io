@@ -5,17 +5,25 @@ date:   2016-10-15 11:00:00 +0200
 categories: Funding
 ---
 
-![Beautiful Django](/assets/logo/Beautiful%20Django.png)
-
-
-How can we ensure both diversity and quality?
----------------------------------------------
+# How can we ensure both diversity and quality?
 
 We need a "Beautiful Django Board" to ensure the diversity part and quality content (One of the hardest parts: how to judge a chapter's quality).
-I was first planning to ask for free contributions to write this book (as one of the aims is to give money to DSF) but I was making a strong and wrong assumption: people are ready to give some of their free time (and CAN) for that book. Writing a chapter, even a small one, represents a huge work. I'm sure some of you would be ready to do it in your spare time, but I don't want to lose any contributors because they can't afford the luxury to do so.
-I'm still searching for ways to fund this book as I want every chapter/author to be paid. We shouldn't set apart contributors who can't help us for financial reasons. As we're all expecting a high-quality book, retributing authors is I think the way to go given that royalties would go to the DSF. Plus, divide it between authors/contributors wouldn't make much sense, none of us is going to get rich with that anyway.
-So far, I'm considering a crowdsourced campaign and a few (few!) ad pages in the book so we can get companies on board with us. The dedicated amount (per chapter? per length?) for authors is not clearly defined yet. See "Publishing" section for more details about it.
 
-A code of conduct and writing (certainly based on the Django one) will be used during the elaboration and the promotion of that book. Professionalism and respect are expected from all of us. The previous sentence is the only one not open for further discussion.
+Writing a chapter is a huge work and asking it for free is wrong. Indeed, it would make the following assumption: people are ready to give some of their free time and CAN do so for that book. 
 
-_I'm here asking for any help to set this CoC&W properly and make sure it's not just words blowing in the wind. Help needed._
+Some of you would be ready to do it in your spare time, but we don't want to lose any contributors because they can't afford the luxury to do so.
+
+We are still looking for ways to fund this book as we want every chapter/author to be paid. We shouldn't set apart contributors who can't help us for financial reasons. As we're all expecting a high-quality book, retributing authors is the way to go given that royalties would go to the DSF.
+
+# Crowdsource campaign
+
+We are considering a crowdsourced campaign to fund this book. The dedicated amount (per chapter? per length?) for authors is not clearly defined yet.
+
+If we set up a crowdsourced campaign and/or self-publish the book, we can imagine different packs with different pricing for individuals:
+- web version only
+- pdf + previous
+- epub  + previous
+- printed version + previous
+We can also consider to set any of the first sections as free.
+
+We can also imagine pricing for companies giving them the ability to write a chapter on a solution they are selling for a high price.
