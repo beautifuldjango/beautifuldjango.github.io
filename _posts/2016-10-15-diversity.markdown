@@ -5,9 +5,6 @@ date:   2016-10-15 11:00:00 +0200
 categories: Diversity
 ---
 
-![Beautiful Django](/assets/logo/Beautiful%20Django.png)
-
-
 Diversity
 ---------
 
