@@ -7,14 +7,14 @@ categories: Diversity
 
 # Diversity
 
-Efforts made by the Django community for greater diversity are remarkable. This book is going to follow the same standards.
+Efforts made by the Django community to promote diversity are remarkable. This book attempts to follow the same standards.
 
-As such, special attention will be given to ensure everybody will feel welcome, regardless of their origins, gender, countries and everything that makes you a unique person.
+As such, special attention will be given to ensure everybody involved with the project will feel welcome, regardless of their origin, gender, country and anything else that makes them unique.
 
-We hope we can work together with every dedicated community (e.g. Djangogirls) to make that happen.
-
+We hope we can work alongside special interest groups (e.g. Djangogirls) to make that happen.
 
 # Code of Conduct
 
-As a first step, we set up our code of conduct based on [contributor-convenant](http://contributor-covenant.org/). Further work on this may be needed.
+As a first step, we have adopted the [contributor-covenant](http://contributor-covenant.org/) as [our code of conduct](http://beautifuldjango.com/code/of/conduct/2015/12/31/CoC.html).
 
+All contributors are expected to follow our [code of conduct](http://beautifuldjango.com/code/of/conduct/2015/12/31/CoC.html).
