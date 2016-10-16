@@ -26,4 +26,4 @@ If we set up a crowdsourced campaign and/or self-publish the book, we can imagin
 - printed version + previous
 We can also consider to set any of the first sections as free.
 
-We can also imagine pricing for companies giving them the ability to write a chapter on a solution they are selling for a high price.
+We can also imagine pricing for companies giving them the ability to write a chapter on a solution they are selling for a higher price.
