@@ -10,11 +10,11 @@ categories: manifesto
 
 # A new book for and from the Django community
 
-"Beautiful Django" is inspired by ["Beautiful Code"](http://shop.oreilly.com/product/9780596510046.do "O'Reilly Beautiful Code"), published by O'Reilly. In _Beautiful Code_, each chapter is written by a different person on the subject of their choice. The only (strong) constraint: to illustrate what they think constitutes "Beautiful Code".
+"Beautiful Django" is inspired by ["_Beautiful Code_"](http://shop.oreilly.com/product/9780596510046.do "O'Reilly Beautiful Code"), published by O'Reilly. In _Beautiful Code_, each chapter is written by a different person on the subject of their choice. The only (strong) constraint: to illustrate what they think constitutes "Beautiful Code".
 
-This book inspired the idea of creating a "Beautiful Django" book along similar principles.
+This book inspired the idea of creating a "_Beautiful Django_" book along similar principles.
 
-# Why Beautiful Django?
+# Why _Beautiful Django_?
 
 **To help the community** build on each others knowledge by sharing what is beautiful about Django and how it is used in the wild.
 
@@ -26,7 +26,7 @@ This book inspired the idea of creating a "Beautiful Django" book along similar 
 
 # Content
 
-As with "Beautiful Code", each chapter will be written by a different author, presenting a subject that they feel passionately about.
+As with "_Beautiful Code_", each chapter will be written by a different author, presenting a subject that they feel passionately about.
 
 Example chapters might include:
 

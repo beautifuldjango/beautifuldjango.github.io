@@ -14,7 +14,7 @@ We are considering license [CC-SA](http://beautifuldjango.com/LICENSE.txt) for t
 Publishing
 ----------
 
-O'Reilly distributes "Beautiful Code", it would make sense to consider it to publish "Beautiful Django". It would ensure a certain sales amount and help with the promotion part. That said, the tradeoff is clear, the cut they take is quite enormous.
+O'Reilly distributes "_Beautiful Code_", it would make sense to consider it to publish "_Beautiful Django_". It would ensure a certain sales amount and help with the promotion part. That said, the tradeoff is clear, the cut they take is quite enormous.
 
 If we want to get any money to the DSF with that book, even if we are not talking about a high volume of green flying banknotes :money_with_wings:, we may do a better job publishing it on our own or via an other publisher with a smaller percentage.
 
