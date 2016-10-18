@@ -5,25 +5,31 @@ date:   2016-10-15 11:00:00 +0200
 categories: Funding
 ---
 
-# How can we ensure both diversity and quality?
+# Raising money to fund the book
 
-We need a "Beautiful Django Board" to ensure the diversity part and quality content (One of the hardest parts: how to judge a chapter's quality).
+As noted in the [manifesto](http://beautifuldjango.com/manifesto/2016/10/17/manifesto.html 'manifesto'), our goal is to raise money to enable us to pay for contributions and publish the final book.
 
-Writing a chapter is a huge work and asking it for free is wrong. Indeed, it would make the following assumption: people are ready to give some of their free time and CAN do so for that book. 
+We recognise that contributing to this project is a luxury that many underrepresented people cannot afford. Relying solely on volunteer contributions would prohibit many from making a contribution and undermine our ambition to showcase the depth and bredth of the Django community.
 
-Some of you would be ready to do it in your spare time, but we don't want to lose any contributors because they can't afford the luxury to do so.
+While we recognise that paying contributors _will_ reduce the final funds donated to the DSF, we strongly believe that it is the best approach for ensuring both diversity and quality in the final product.
 
-We are still looking for ways to fund this book as we want every chapter/author to be paid. We shouldn't set apart contributors who can't help us for financial reasons. As we're all expecting a high-quality book, retributing authors is the way to go given that royalties would go to the DSF.
 
-# Crowdsource campaign
+## Crowdsource campaign
 
-We are considering a crowdsourced campaign to fund this book. The dedicated amount (per chapter? per length?) for authors is not clearly defined yet.
+We are considering establishing a crowdsourced campaign to fund this book, with different prices for the final book:
 
-If we set up a crowdsourced campaign and/or self-publish the book, we can imagine different packs with different pricing for individuals:
 - web version only
 - pdf + previous
 - epub  + previous
 - printed version + previous
-We can also consider to set any of the first sections as free.
 
-We can also imagine pricing for companies giving them the ability to write a chapter on a solution they are selling for a higher price.
+Given that we want as many people to read the book as possible, we would also consider providing the web version for free, finances allowing.
+
+In addition, we could sell areas of the book to corporate donors, including:
+
+- Selling sponsorship 'levels', with companies buying logo and/or credits on specific pages
+- Selling sponsor 'chapters' where an organisation could write a chapter on how they use Django in their product/solution
+
+The amount we will need to raise still needs to be established. Before setting this goal, we will need to research appropriate payrates/fees for each type of work (chapter writing, graphic design, illustration, etc.). 
+
+

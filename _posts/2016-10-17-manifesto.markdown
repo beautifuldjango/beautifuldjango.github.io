@@ -14,7 +14,7 @@ categories: manifesto
 
 This book inspired the idea of creating a "Beautiful Django" book along similar principles.
 
-# Why Beautiful Django?
+## Why Beautiful Django?
 
 **To help the community** build on each others knowledge by sharing what is beautiful about Django and how it is used in the wild.
 
@@ -24,7 +24,7 @@ This book inspired the idea of creating a "Beautiful Django" book along similar 
 
 **To promote [diversity](http://beautifuldjango.com/diversity/2016/10/15/diversity.html 'diversity')** by highlighting different voices within the Django community.
 
-# Content
+## Content
 
 As with "Beautiful Code", each chapter will be written by a different author, presenting a subject that they feel passionately about.
 
@@ -41,17 +41,17 @@ We anticipate a handful of chapters exploring elegant code, alongside code-free 
 The objective is _not_ to develop a "how-to" or "technical best pratices" book; many great resources already exist for learning Django and we don't want to step on their toes.
 Instead, we hope to introduce a new perspective on Django and its community.
 
-# Design
+## Design
 
 To do justice to the book's content, we also want to develop a high quality aesthetic. That means including illustrations and great graphic design from the outset.  
 
 As with the book's content, we hope to source this directly from the Django community.
 
-# Fundraising and publishing
+## Fundraising and publishing
 
-Our objective is to raise money to allow us to pay the contributors and print the final book. For more information, see the [Funding]() and [Publishing](http://beautifuldjango.com/manifesto/2016/10/15/production.html) pages.
+Our objective is to raise money to allow us to pay the contributors and print the final book. For more information, see the [Funding](http://beautifuldjango.com/funding/2016/10/15/funding.html) and [Publishing](http://beautifuldjango.com/manifesto/2016/10/15/production.html) pages.
 
-# Contributing
+## Contributing
 
 To make this book a reality, we need your help! As such, we are looking for contributors of all kinds. 
 If you think you can help, please see the [Contributing section](http://beautifuldjango.com/manifesto/2016/10/15/contributing.html).

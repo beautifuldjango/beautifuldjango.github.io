@@ -5,17 +5,15 @@ date:   2016-10-15 11:00:00 +0200
 categories: manifesto
 ---
 
-Licensing
----------
+## Licensing
 
-We are considering license [CC-SA](http://beautifuldjango.com/LICENSE.txt) for this book. Licensing is one key point and should be examined closely. Please comment below or open an issue on github to discuss this.
+We are considering a [CC-SA license](http://beautifuldjango.com/LICENSE.txt) for this book. Licensing is one key point and should be examined closely. Please comment below or open an [issue on GitHub](https://github.com/beautifuldjango/beautifuldjango.github.io/issues 'issue tracker') to discuss this.
 
 
-Publishing
-----------
+## Publishing
 
-O'Reilly distributes "Beautiful Code", it would make sense to consider it to publish "Beautiful Django". It would ensure a certain sales amount and help with the promotion part. That said, the tradeoff is clear, the cut they take is quite enormous.
+As [O'Reilly](http://oreilly.com/ 'oreilly') distributes "Beautiful Code", it would make sense to ask them to publish "Beautiful Django". Asking a large pusblisher to work with us would expose the book to a wide audience, but would mean that the royalties (and thus the funds for the DSF) would be limited. It would also be incompatible with a [crowdsourcing campaign](http://beautifuldjango.com/funding/2016/10/15/funding.html 'funding').
 
-If we want to get any money to the DSF with that book, even if we are not talking about a high volume of green flying banknotes :money_with_wings:, we may do a better job publishing it on our own or via an other publisher with a smaller percentage.
+If our ambition is to donate a significant profit :money_with_wings: to the DSF, then self-publishing, or publishing with a small, independent publisher (who pays larger royalties) may be a better strategy.
 
-We need to crunch some numbers to assess which option is the best given our ambition and the real reach we can have with this book. If you think you have some proposals which could be of interest for us, feel free to contact us.
+We need to crunch some numbers to assess which option is the best. If you have a proposal that may be of interest to us, we'd love to hear from you!
