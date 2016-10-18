@@ -2,7 +2,7 @@
 layout: post
 title:  "Diversity"
 date:   2016-10-15 11:00:00 +0200
-categories: Diversity
+categories: manifesto
 ---
 
 # Diversity

@@ -2,7 +2,7 @@
 layout: post
 title:  "Funding"
 date:   2016-10-15 11:00:00 +0200
-categories: Funding
+categories: book
 ---
 
 # How can we ensure both diversity and quality?

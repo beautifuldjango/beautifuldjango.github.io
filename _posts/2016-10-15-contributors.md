@@ -2,7 +2,7 @@
 layout: post
 title:  "Contributors"
 date:   2016-10-15 00:00:00 +0200
-categories: manifesto
+categories: general
 ---
 
 # THANKS

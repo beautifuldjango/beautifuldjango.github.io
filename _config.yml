@@ -13,3 +13,10 @@ google_analytics: UA-42192634-6
 disqus:
   shortname: beautifuldjango
 theme: minima
+
+# Categories are:
+# - general: about the whole thing
+# - manifesto: about what we're trying to achieve as a whole
+# - book: about the book specifically
+# -
+#

@@ -2,7 +2,7 @@
 layout: post
 title:  "Contributing"
 date:   2016-10-15 11:00:00 +0200
-categories: manifesto
+categories: general
 ---
 
 
