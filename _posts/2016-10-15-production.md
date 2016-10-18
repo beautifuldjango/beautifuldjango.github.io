@@ -13,7 +13,8 @@ We are considering a [CC-SA license](http://beautifuldjango.com/LICENSE.txt) for
 ## Publishing
 
 
-As [O'Reilly](http://oreilly.com/ 'oreilly') distributes "Beautiful Code", it would make sense to ask them to publish "Beautiful Django". Asking a large pusblisher to work with us would expose the book to a wide audience, but would mean that the royalties (and thus the funds for the DSF) would be limited. It would also be incompatible with a [crowdsourcing campaign]({% post_url 2016-10-15-funding %} 'funding').
+As [O'Reilly](http://oreilly.com/ 'oreilly') distributes "_Beautiful Code_", it would make sense to ask them to publish "_Beautiful Django_". Asking a large pusblisher to work with us would expose the book to a wide audience, but would mean that the royalties (and thus the funds for the DSF) would be limited. It would also be incompatible with a [crowdsourcing campaign]({% post_url 2016-10-15-funding %} 'funding').
+
 
 If our ambition is to donate a significant profit :money_with_wings: to the DSF, then self-publishing, or publishing with a small, independent publisher (who pays larger royalties) may be a better strategy.
 
