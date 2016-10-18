@@ -42,5 +42,5 @@ If you want to help, the following tasks are the most important for moving the p
 
 # How to contribute
 
-You can propose any change with a pull request on [Github](https://github.com/beautifuldjango), comment on any post on this website or reach me via [Twitter](https://twitter.com/Adrien_Brunet) or [e-mail](mailto:brunet.adrien@gmail.com).
+You can propose any change with a pull request on [Github](https://github.com/beautifuldjango "Beautiful Django GitHub repo"), comment on any post on this website or reach me via [Twitter](https://twitter.com/Adrien_Brunet) or [e-mail](mailto:brunet.adrien@gmail.com).
 

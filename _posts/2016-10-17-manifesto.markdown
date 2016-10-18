@@ -5,7 +5,7 @@ date:   2016-10-17 23:42:22 +0200
 categories: manifesto
 ---
 
-![Beautiful Django](/assets/logo/Beautiful%20Django.png)
+![Beautiful Django](/assets/logo/Beautiful%20Django.png "Beautiful Django logo - the words Beautiful Django with a nice typography")
 
 
 # A new book for and from the Django community
@@ -22,7 +22,7 @@ This book inspired the idea of creating a "_Beautiful Django_" book along simila
 
 **To raise money** by donating all royalties to the Django Software Foundation.
 
-**To promote [diversity]({% post_url 2016-10-15-diversity %} 'Diversity statement')** by highlighting different voices within the Django community.
+**To promote [diversity]({% post_url 2016-10-15-diversity %} "Our diversity statement")** by highlighting different voices within the Django community.
 
 # Content
 
@@ -59,6 +59,6 @@ If you think you can help, please see the [Contributing section]({% post_url 201
 Note that all contributors are expected to follow our [Code of Conduct]({% post_url 2016-01-01-CoC %}).
 
 
-With much :heart:, Adrien Brunet and [contributors]({% post_url 2016-10-15-contributors %}).
+With much :heart:, Adrien Brunet and [contributors]({% post_url 2016-10-15-contributors "List of our loved contributors" %}).
 
 <p align="center">:sparkles: :snake: :guitar:</p>
