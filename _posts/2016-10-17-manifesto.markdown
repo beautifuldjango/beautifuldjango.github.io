@@ -5,16 +5,16 @@ date:   2016-10-17 23:42:22 +0200
 categories: manifesto
 ---
 
-![Beautiful Django](/assets/logo/Beautiful%20Django.png)
+![Beautiful Django](/assets/logo/Beautiful%20Django.png "Beautiful Django logo - the words Beautiful Django with a nice typography")
 
 
 # A new book for and from the Django community
 
-"Beautiful Django" is inspired by ["Beautiful Code"](http://shop.oreilly.com/product/9780596510046.do "O'Reilly Beautiful Code"), published by O'Reilly. Each chapter is written by a different person on the subject of their choice. The only (strong) constraint: to illustrate what they think constitutes "Beautiful Code".
+"Beautiful Django" is inspired by ["_Beautiful Code_"](http://shop.oreilly.com/product/9780596510046.do "O'Reilly Beautiful Code"), published by O'Reilly. In _Beautiful Code_, each chapter is written by a different person on the subject of their choice. The only (strong) constraint: to illustrate what they think constitutes "Beautiful Code".
 
-This book inspired the idea of creating a "Beautiful Django" book along similar principles.
+This book inspired the idea of creating a "_Beautiful Django_" book along similar principles.
 
-# Why Beautiful Django?
+# Why _Beautiful Django_?
 
 **To help the community** build on each others knowledge by sharing what is beautiful about Django and how it is used in the wild.
 
@@ -22,11 +22,11 @@ This book inspired the idea of creating a "Beautiful Django" book along similar 
 
 **To raise money** by donating all royalties to the Django Software Foundation.
 
-**To promote [diversity](http://beautifuldjango.com/diversity/2016/10/15/diversity.html 'diversity')** by highlighting different voices within the Django community.
+**To promote [diversity]({% post_url 2016-10-15-diversity %} "Our diversity statement")** by highlighting different voices within the Django community.
 
 # Content
 
-As with "Beautiful Code", each chapter will be written by a different author, presenting a subject that they feel passionately about.
+As with "_Beautiful Code_", each chapter will be written by a different author, presenting a subject that they feel passionately about.
 
 Example chapters might include:
 
@@ -49,16 +49,16 @@ As with the book's content, we hope to source this directly from the Django comm
 
 # Fundraising and publishing
 
-Our objective is to raise money to allow us to pay the contributors and print the final book. For more information, see the [Funding]() and [Publishing](http://beautifuldjango.com/manifesto/2016/10/15/production.html) pages.
+Our objective is to raise money to allow us to pay the contributors and print the final book. For more information, see the [Funding]({% post_url 2016-10-15-funding %}) and [Publishing]({% post_url 2016-10-15-production %}) pages.
 
 # Contributing
 
 To make this book a reality, we need your help! As such, we are looking for contributors of all kinds. 
-If you think you can help, please see the [Contributing section](http://beautifuldjango.com/manifesto/2016/10/15/contributing.html).
+If you think you can help, please see the [Contributing section]({% post_url 2016-10-15-contributing %}).
 
-Note that all contributors are expected to follow our [Code of Conduct](http://beautifuldjango.com/code/of/conduct/2015/12/31/CoC.html).
+Note that all contributors are expected to follow our [Code of Conduct]({% post_url 2016-01-01-CoC %}).
 
 
-With much :heart:, Adrien Brunet and [contributors](http://beautifuldjango.com/manifesto/2016/10/14/contributors.html).
+With much :heart:, Adrien Brunet and [contributors]({% post_url 2016-10-15-contributors %} "List of our loved contributors").
 
 <p align="center">:sparkles: :snake: :guitar:</p>

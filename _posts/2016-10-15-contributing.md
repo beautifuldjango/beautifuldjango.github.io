@@ -2,7 +2,7 @@
 layout: post
 title:  "Contributing"
 date:   2016-10-15 11:00:00 +0200
-categories: manifesto
+categories: general
 ---
 
 
@@ -15,18 +15,18 @@ Currently, we need help with:
 - Writing the chapters
 - Editing/correcting/reviewing the chapters
 - Working on the design/illustrations
-- Developing with the [fundraising](http://beautifuldjango.com/funding/2016/10/15/funding.html) campaign
+- Developing with the [fundraising]({% post_url 2016-10-15-funding %}) campaign
 - Searching for and engaging with authors worldwide
 - Providing administrative support
-- Developing a marketing and sales strategy, see [Production](http://beautifuldjango.com/manifesto/2016/10/15/production.html)
+- Developing a marketing and sales strategy, see [Production]({% post_url 2016-10-15-production %})
 - Maintaining/developing the Beautiful Django Website (at least a new theme for this blog)
 - Liasing with the DSF
 
-This means we need contributors with a broad range of skills and experiences. Ideally, we would like to see contributions from the entire Django community in line with our [diversity goals](http://beautifuldjango.com/diversity/2016/10/15/diversity.html).
+This means we need contributors with a broad range of skills and experiences. Ideally, we would like to see contributions from the entire Django community in line with our [diversity goals]({% post_url 2016-10-15-diversity %}).
 
 Any help, even the smallest comment on the blog posts, is greatly appreciated.
 
-Note that all contributors are expected to follow our [Code of Conduct](http://beautifuldjango.com/code/of/conduct/2015/12/31/CoC.html).
+Note that all contributors are expected to follow our [Code of Conduct]({% post_url 2016-01-01-CoC %}).
 
 # Specific tasks
 
@@ -42,5 +42,5 @@ If you want to help, the following tasks are the most important for moving the p
 
 # How to contribute
 
-You can propose any change with a pull request on [Github](https://github.com/beautifuldjango), comment on any post on this website or reach me via [Twitter](https://twitter.com/Adrien_Brunet) or [e-mail](mailto:brunet.adrien@gmail.com).
+You can propose any change with a pull request on [Github](https://github.com/beautifuldjango "Beautiful Django GitHub repo"), comment on any post on this website or reach me via [Twitter](https://twitter.com/Adrien_Brunet) or [e-mail](mailto:brunet.adrien@gmail.com).
 
