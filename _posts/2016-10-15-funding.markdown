@@ -7,7 +7,7 @@ categories: book
 
 # Raising money to fund the book
 
-As noted in the [manifesto](http://beautifuldjango.com/manifesto/2016/10/17/manifesto.html 'manifesto'), our goal is to raise money to enable us to pay for contributions and publish the final book.
+As noted in the [manifesto]({% post_url 2016-10-17-manifesto %} 'manifesto'), our goal is to raise money to enable us to pay for contributions and publish the final book.
 
 We recognise that contributing to this project is a luxury that many underrepresented people cannot afford. Relying solely on volunteer contributions would prohibit many from making a contribution and undermine our ambition to showcase the depth and bredth of the Django community.
 
@@ -30,6 +30,6 @@ In addition, we could sell areas of the book to corporate donors, including:
 - Selling sponsorship 'levels', with companies buying logo and/or credits on specific pages
 - Selling sponsor 'chapters' where an organisation could write a chapter on how they use Django in their product/solution
 
-The amount we will need to raise still needs to be established. Before setting this goal, we will need to research appropriate payrates/fees for each type of work (chapter writing, graphic design, illustration, etc.). 
+The amount we will need to raise still needs to be established. Before setting this goal, we will need to research appropriate payrates/fees for each type of work (chapter writing, graphic design, illustration, etc.).
 
 
