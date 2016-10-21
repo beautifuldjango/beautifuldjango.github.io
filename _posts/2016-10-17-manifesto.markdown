@@ -14,7 +14,7 @@ categories: manifesto
 
 This book inspired the idea of creating a "_Beautiful Django_" book along similar principles.
 
-# Why _Beautiful Django_?
+## Why _Beautiful Django_?
 
 **To help the community** build on each others knowledge by sharing what is beautiful about Django and how it is used in the wild.
 
@@ -24,7 +24,7 @@ This book inspired the idea of creating a "_Beautiful Django_" book along simila
 
 **To promote [diversity]({% post_url 2016-10-15-diversity %} "Our diversity statement")** by highlighting different voices within the Django community.
 
-# Content
+## Content
 
 As with "_Beautiful Code_", each chapter will be written by a different author, presenting a subject that they feel passionately about.
 
@@ -41,19 +41,19 @@ We anticipate a handful of chapters exploring elegant code, alongside code-free 
 The objective is _not_ to develop a "how-to" or "technical best pratices" book; many great resources already exist for learning Django and we don't want to step on their toes.
 Instead, we hope to introduce a new perspective on Django and its community.
 
-# Design
+## Design
 
-To do justice to the book's content, we also want to develop a high quality aesthetic. That means including illustrations and great graphic design from the outset.  
+To do justice to the book's content, we also want to develop a high quality aesthetic. That means including illustrations and great graphic design from the outset.
 
 As with the book's content, we hope to source this directly from the Django community.
 
-# Fundraising and publishing
+## Fundraising and publishing
 
 Our objective is to raise money to allow us to pay the contributors and print the final book. For more information, see the [Funding]({% post_url 2016-10-15-funding %}) and [Publishing]({% post_url 2016-10-15-production %}) pages.
 
-# Contributing
+## Contributing
 
-To make this book a reality, we need your help! As such, we are looking for contributors of all kinds. 
+To make this book a reality, we need your help! As such, we are looking for contributors of all kinds.
 If you think you can help, please see the [Contributing section]({% post_url 2016-10-15-contributing %}).
 
 Note that all contributors are expected to follow our [Code of Conduct]({% post_url 2016-01-01-CoC %}).

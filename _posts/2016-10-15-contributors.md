@@ -5,7 +5,7 @@ date:   2016-10-15 00:00:00 +0200
 categories: general
 ---
 
-# THANKS
+# Thanks
 
 We'd like to give huge and warm thanks to the following contributors:
 
