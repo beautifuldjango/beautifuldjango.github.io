@@ -56,7 +56,7 @@ Our objective is to raise money to allow us to pay the contributors and print th
 To make this book a reality, we need your help! As such, we are looking for contributors of all kinds.
 If you think you can help, please see the [Contributing section]({% post_url 2016-10-15-contributing %}).
 
-Note that all contributors are expected to follow our [Code of Conduct]({% post_url 2016-01-01-CoC %}).
+Note that all contributors are expected to follow our [Code of Conduct]({% post_url 2016-01-01-code-of-conduct %}).
 
 
 With much :heart:, Adrien Brunet and [contributors]({% post_url 2016-10-15-contributors %} "List of our loved contributors").
