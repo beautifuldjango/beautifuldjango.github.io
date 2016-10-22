@@ -9,7 +9,7 @@ __TODO__ (short term)
 - [ ] Update to a more fancy jekyll theme
 - [x] Use same logo for organization, website etc. Maybe the "logo" should just be "beautiful django" written in a fancy cursive typo. (quick & dirty solution)
 - [ ] Add [small script](https://github.com/jlevy/ghizmo) to add automagically contributors to a new AUTHORS.md file
-- [ ] Add favicon
+- [x] Add favicon
 
 
 All contributions are welcomed.
