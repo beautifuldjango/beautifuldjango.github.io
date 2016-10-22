@@ -16,6 +16,6 @@ We hope we can work alongside special interest groups (e.g. Django Girls) to mak
 
 ## Code of Conduct
 
-As a first step, we have adopted the [contributor-covenant](http://contributor-covenant.org/) as [our code of conduct]({% post_url 2016-01-01-CoC %}).
+As a first step, we have adopted the [contributor-covenant](http://contributor-covenant.org/) as [our code of conduct]({% post_url 2016-01-01-code-of-conduct %}).
 
-All contributors are expected to follow our [code of conduct]({% post_url 2016-01-01-CoC %}).
+All contributors are expected to follow our [code of conduct]({% post_url 2016-01-01-code-of-conduct %}).
