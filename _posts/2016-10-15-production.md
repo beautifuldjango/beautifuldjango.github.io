@@ -7,7 +7,7 @@ categories: book
 
 ## Licensing
 
-We are considering a [CC-SA license](http://beautifuldjango.com/LICENSE.txt) for this book. Licensing is one key point and should be examined closely. Please comment below or open an [issue on GitHub](https://github.com/beautifuldjango/beautifuldjango.github.io/issues 'issue tracker') to discuss this.
+We are considering a [CC-BY-SA license](http://beautifuldjango.com/LICENSE.txt) for this book. Licensing is one key point and should be examined closely. Please comment below or open an [issue on GitHub](https://github.com/beautifuldjango/beautifuldjango.github.io/issues 'issue tracker') to discuss this.
 
 
 ## Publishing
