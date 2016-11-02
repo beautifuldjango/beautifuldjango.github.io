@@ -1,12 +1,8 @@
 ---
 layout: post
 title:  "MANIFESTO"
-date:   2016-10-17 23:42:22 +0200
-categories: manifesto
+permalink: manifesto
 ---
-
-![Beautiful Django](/assets/logo/Beautiful%20Django.png "Beautiful Django logo - the words Beautiful Django with a nice typography")
-
 
 # A new book for and from the Django community
 
