@@ -6,17 +6,12 @@
 			<h2>Categories</h2>
 		</header>
 		<div class="row">
-			<section class="6u">
-
+			<section class="9u">
 				<ul class="default">
 					<li><h3><a href="/manifesto/">Manifesto</a></h3></li>
 				{% for post in site.posts  %}
 					<li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
 				{% endfor %}
-				</ul>
-			</section>
-			<section class="6u">
-				<ul class="default">
 				</ul>
 			</section>
 		</div>
