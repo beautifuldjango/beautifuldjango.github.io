@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Manifesto"
-permalink: manifesto
+permalink: /manifesto
 ---
 
 # A new book for and from the Django community
