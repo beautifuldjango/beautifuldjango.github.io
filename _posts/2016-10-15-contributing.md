@@ -27,7 +27,7 @@ This means we need contributors with a broad range of skills and experiences. Id
 
 In the meantime, however, any help, even the smallest comment on the blog posts, is greatly appreciated.
 
-If you want to help for anything, get in touch! The best way is to [*fill this form*](https://goo.gl/forms/e7SgxGtt4unHQaCh1). We'll try to get back to you quickly !
+If you want to help for anything, get in touch! The best way is to [**fill this form**](https://goo.gl/forms/e7SgxGtt4unHQaCh1). We'll try to get back to you quickly !
 
 Note that all contributors are expected to follow our [Code of Conduct]({% post_url 2016-01-01-code-of-conduct %}).
 
