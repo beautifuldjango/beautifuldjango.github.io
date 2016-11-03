@@ -21,9 +21,6 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 		<link rel="stylesheet" href="/assets/css/style.css" />
 		<link rel="stylesheet" href="/assets/css/style-desktop.css" />
 	</noscript>
-	{% if jekyll.environment == 'production' and site.google_analytics %}
-		{% include google-analytics.html %}
-    {% endif %}
 </head>
 <body>
 
@@ -69,6 +66,10 @@ Released for free under the Creative Commons Attribution 3.0 license (templated.
 		Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a>
 	</div>
 </div>
+
+	{% if jekyll.environment == 'production' and site.google_analytics %}
+		{% include google-analytics.html %}
+	{% endif %}
 
 </body>
 </html>
