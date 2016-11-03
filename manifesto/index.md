@@ -18,7 +18,7 @@ This book inspired the idea of creating a "_Beautiful Django_" book along simila
 
 **To raise money** by donating all royalties to the Django Software Foundation.
 
-**To promote [diversity]({% post_url 2016-10-15-diversity %} "Our diversity statement")** by highlighting different voices within the Django community.
+**To promote [diversity](/general/2016/10/15/diversity.html "Our diversity statement")** by highlighting different voices within the Django community.
 
 ## Content
 
@@ -45,16 +45,16 @@ As with the book's content, we hope to source this directly from the Django comm
 
 ## Fundraising and publishing
 
-Our objective is to raise money to allow us to pay the contributors and print the final book. For more information, see the [Funding]({% post_url 2016-10-15-funding %}) and [Publishing]({% post_url 2016-10-15-production %}) pages.
+Our objective is to raise money to allow us to pay the contributors and print the final book. For more information, see the [Funding](/book/2016/10/15/funding.html) and [Publishing](/book/2016/10/15/production.html) pages.
 
 ## Contributing
 
 To make this book a reality, we need your help! As such, we are looking for contributors of all kinds.
-If you think you can help, please see the [Contributing section]({% post_url 2016-10-15-contributing %}).
+If you think you can help, please see the [Contributing section](/general/2016/10/15/contributing.html).
 
-Note that all contributors are expected to follow our [Code of Conduct]({% post_url 2016-01-01-code-of-conduct %}).
+Note that all contributors are expected to follow our [Code of Conduct](/general/2015/12/31/code-of-conduct.html).
 
 
-With much :heart:, Adrien Brunet and [contributors]({% post_url 2016-10-15-contributors %} "List of our loved contributors").
+With much :heart:, Adrien Brunet and [contributors](/general/2016/10/15/contributors.html "List of our loved contributors").
 
 <p align="center">:sparkles: :snake: :guitar:</p>
