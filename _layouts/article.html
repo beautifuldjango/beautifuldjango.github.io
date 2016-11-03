@@ -15,6 +15,10 @@ layout: default
 							<h2>{{ page.title }}</h2>
 						</header>
 						{{ page.content | markdownify }}
+
+						{% if site.disqus.shortname %}
+							{% include disqus_comments.html %}
+						{% endif %}
 					</section>
 				</div>
 
