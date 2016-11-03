@@ -73,6 +73,15 @@
 	{
 		padding: 6em 0em;
 	}
+	#footer-sidebar li
+	{
+		display: inline;
+		margin: 0em 2em;
+	}
+	#footer-sidebar h3
+	{
+		display: inline;
+	}
 
 /*********************************************************************************/
 /* Featured                                                                      */
