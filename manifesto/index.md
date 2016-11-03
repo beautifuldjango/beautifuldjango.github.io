@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "MANIFESTO"
+title:  "Manifesto"
 permalink: manifesto
 ---
 
