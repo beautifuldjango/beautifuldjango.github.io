@@ -265,6 +265,13 @@
 		}
 
 	/* Custom (shitty css by adrien #notProud */
+	#content h1
+	{
+		font-size: 2.5em !important;
+		padding-top: 0.4em;
+		padding-bottom: 1em;
+	}
+
 	#content h2
 	{
 		font-size: 2em !important;
