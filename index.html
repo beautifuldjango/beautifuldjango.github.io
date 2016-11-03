@@ -1,23 +1,39 @@
 ---
+title: Home
 layout: default
 ---
+<!-- Featured -->
+<div id="featured">
+	<div class="container">
+		<header>
+			<h2>A book <span class="hilight">for</span> and <span class="hilight">from</span> the Django community</h2>
+		</header>
+		<p>"<i>Beautiful Django</i>" is inspired by "<a href="http://shop.oreilly.com/product/9780596510046.do" title="O'Reilly Beautiful Code"><i>Beautiful Code</i></a>", published by O'Reilly.
+		<br>
+		In <i>Beautiful Code</i>, each chapter is written by a different person on the subject of their choice.
+		<br>
+		The only (strong) constraint: to illustrate what they think constitutes "Beautiful Code".</p>
+		<hr />
+		<div class="row">
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-info-circle"></span></span>
+				<h3>Manifesto</h3>
+				<p>Learn about our project</p>
+				<a href="/manifesto/" class="button button-style1">Read More</a>
+			</section>
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-dollar"></span></span>
+				<h3>Funding</h3>
+				<p>Here's how we plan to fund the book</p>
+				<a href="{% post_url 2016-10-15-funding %}" class="button button-style1">Read More</a>
+			</section>
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-users"></span></span>
+				<h3>Contribute</h3>
+				<p>Let's all make it a reality!</p>
+				<a href="{% post_url 2016-10-15-contributing %}" class="button button-style1">Read More</a>
+			</section>
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+		</div>
+	</div>
 </div>

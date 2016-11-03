@@ -1,4 +1,5 @@
 title: Beautiful Django
+name: Beautiful Django
 email: brunet.adrien@gmail.com
 description: Beautiful Django Book Website
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -12,7 +13,7 @@ markdown: kramdown
 google_analytics: UA-42192634-6
 disqus:
   shortname: beautifuldjango
-theme: minima
+
 
 # Categories are:
 # - general: about the whole thing

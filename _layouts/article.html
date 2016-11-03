@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<!-- Main -->
+	<div id="main">
+		<div class="container">
+			<div class="row">
+				{% include sidebar.html %}
+
+				<!-- Content -->
+				<div id="content" class="8u skel-cell-important">
+					<section>
+						<header>
+							<h2>{{ page.title }}</h2>
+						</header>
+						{{ page.content | markdownify }}
+
+						{% if site.disqus.shortname %}
+							{% include disqus_comments.html %}
+						{% endif %}
+					</section>
+				</div>
+
+			</div>
+		</div>
+	</div>
+<!-- /Main -->

@@ -1,0 +1,10 @@
+<!-- Footer nav bar -->
+<div id="footer-sidebar">
+	<ul class="default">
+		<li><h3><a href="/manifesto/">Manifesto</a></h3></li>
+	{% for post in site.posts  %}
+		<li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
+	{% endfor %}
+	</ul>
+</div>
+
