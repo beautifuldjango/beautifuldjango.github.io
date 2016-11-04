@@ -205,11 +205,16 @@
 
 	/* Lists */
 
+		#content li
+		{
+			list-style: circle;
+			margin-left: 1em;
+		}
+
 		ul.default
 		{
 			margin: 0;
 			padding: 0em 0em 1.5em 0em;
-			list-style: none;
 		}
 
 			ul.default li
