@@ -371,9 +371,6 @@
 	#header
 	{
 		position: relative;
-		/*background: url(../logo/Beautiful%20Django.png) no-repeat bottom;*/
-		/*background-attachment: fixed;*/
-		/*background-size: cover;*/
 		text-align: center;
 	}
 	.hilight
