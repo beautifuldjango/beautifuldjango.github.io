@@ -8,6 +8,7 @@ twitter_username: Adrien_Brunet
 github_username:  beautifuldjango
 gems:
   - jemoji
+  - jekyll-feed
 # Build settings
 markdown: kramdown
 google_analytics: UA-42192634-6
