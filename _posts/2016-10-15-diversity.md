@@ -5,11 +5,9 @@ date:   2016-10-15 11:00:00 +0200
 categories: general
 ---
 
-# Diversity
-
 Efforts made by the Django community to promote diversity are remarkable. This book will attempt to follow the same standards.
 
-As such, special attention will be given to ensure everybody involved with the project will feel welcome, regardless of their origin, gender, country and anything else that makes them unique.
+As such, special attention will be given to ensure everybody involved with the project will feel welcome, regardless of their origin, gender, country, political view/stance and anything else that makes them unique.
 
 We hope we can work alongside special interest groups (e.g. Django Girls) to make that happen.
 
